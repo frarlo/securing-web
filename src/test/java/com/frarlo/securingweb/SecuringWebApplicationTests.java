@@ -1,4 +1,4 @@
-package com.frarlo.securing_web;
+package com.frarlo.securingweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

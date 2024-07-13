@@ -1,4 +1,4 @@
-package com.frarlo.securing_web;
+package com.frarlo.securingweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
